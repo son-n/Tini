@@ -1,0 +1,13 @@
+# build dir
+dist/
+
+# stray font files
+*.otb
+*.bdf
+*.ttf
+
+# ttf converter binary
+BitsNPicas.jar
+.envrc
+result
+.direnv
